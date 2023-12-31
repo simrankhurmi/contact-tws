@@ -1,0 +1,24 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.App table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.App th, .App td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.App th {
+  background-color: #f2f2f2;
+}
+
+/* Optional: Style for even and odd rows */
+.App tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
