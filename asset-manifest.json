@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-tws/static/css/main.4671881a.css",
+    "main.js": "/contact-tws/static/js/main.6b9ad1e3.js",
+    "static/js/787.54acfeae.chunk.js": "/contact-tws/static/js/787.54acfeae.chunk.js",
+    "index.html": "/contact-tws/index.html",
+    "main.4671881a.css.map": "/contact-tws/static/css/main.4671881a.css.map",
+    "main.6b9ad1e3.js.map": "/contact-tws/static/js/main.6b9ad1e3.js.map",
+    "787.54acfeae.chunk.js.map": "/contact-tws/static/js/787.54acfeae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4671881a.css",
+    "static/js/main.6b9ad1e3.js"
+  ]
+}
